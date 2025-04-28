@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reinassanceman1
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...HTML,CSS,Javascript
-- 💞️ I’m looking to collaborate on ...many web devolpment projects
+- 👀 I’m interested in ...machine learning and data science
+- 🌱 I’m currently learning ...python,rust, sql, ml theory
+- 💞️ I’m looking to collaborate on ... data related projects
 - 📫 How to reach me ...on my email  at wekesangao@gmail.com, or my twitter at @Reinassanceman1.
 
 <!---
